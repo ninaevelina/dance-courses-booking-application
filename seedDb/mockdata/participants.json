@@ -1,0 +1,181 @@
+[
+	{
+		"name": "Sara Svensson",
+		"email": "sarasvensson@gmail.com",
+		"phone": "0739440022",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Sara Eriksson",
+		"email": "saraeriksson@gmail.com",
+		"phone": "0739440022",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Lisa Svensson",
+		"email": "lisasvensson@gmail.com",
+		"phone": "0739440021",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Mia Bro",
+		"email": "miabro@gmail.com",
+		"phone": "0739440000",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Fia Boman",
+		"email": "fiaboman@gmail.com",
+		"phone": "0739440025",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Ann-Louise Bjork",
+		"email": "bjorken@gmail.com",
+		"phone": "0739449133",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Fia Larsson",
+		"email": "fia@gmail.com",
+		"phone": "0709490033",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Linnea Roos",
+		"email": "roos@gmail.com",
+		"phone": "0739440765",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Sara Davidsson",
+		"email": "sarad@gmail.com",
+		"phone": "0739440099",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Linn Boman",
+		"email": "linn@gmail.com",
+		"phone": "0739440088",
+		"role": "FOLLOWER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Sven Svensson",
+		"email": "svensvensson@gmail.com",
+		"phone": "0730001111",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Bror Eriksson",
+		"email": "eriksson@gmail.com",
+		"phone": "0709693312",
+		"role": "LEADER",
+		"paymentpending": false
+		
+	},
+	{
+		"name": "Leo Eriksson",
+		"email": "leo@gmail.com",
+		"phone": "0709693312",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Daniel Persson",
+		"email": "daniel@gmail.com",
+		"phone": "0709693677",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Leopold Davidsson",
+		"email": "leopold@gmail.com",
+		"phone": "0739693312",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Sebastian Oswald",
+		"email": "sebbos@gmail.com",
+		"phone": "0769696612",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Emil Persson",
+		"email": "emilpsson@gmail.com",
+		"phone": "0766693312",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Johan Malmgren",
+		"email": "malmgren@gmail.com",
+		"phone": "0769693218",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Rick Visser",
+		"email": "rick@gmail.com",
+		"phone": "0739693313",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	},
+	{
+		"name": "Tim Lundgren",
+		"email": "lundgrens@gmail.com",
+		"phone": "0739333312",
+		"role": "LEADER",
+		"paymentpending": false
+		
+		
+	}
+]
