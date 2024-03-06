@@ -20,6 +20,12 @@ Install dependencies with npm
   npm install
 ```
 
+## Seed data to your database
+
+```bash
+   npm run seedDb
+```
+
 ## Run project
 
 ```bash
