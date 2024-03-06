@@ -1,8 +1,28 @@
-## Inlämningsuppgift 2 (REST API med MongoDB)
+## Dance Courses Booking Application (REST API with MongoDB)
 
-Detta är en uppgift för kursens individuella inlämningsuppgift nummer 2 som ämnar till att utvärdera individuella kunskaper kring ExpressJS, REST API och MongoDB samt följande lärandemål från kursplanen:
+A backend-only booking application built with ExpressJS, REST APIs and MongoDB, showcasing route handling for GET, POST, PUT and DELETE-requests (CRUD).
+An assignment as a part of the course API-Utveckling @ Medieinstitutet, Stockholm. 
 
-- Planering av att skapa dynamiska webbapplikationer
-- Programmera databasdrivna webbplatser
-- NoSQL databaser
-- Databasdesign och normalisering av NoSQL databaser
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file:
+
+`MONGO_CONNECTION_STRING` 
+
+`PORT`
+
+## Installation
+
+Install dependencies with npm
+
+```bash
+  npm install
+```
+
+## Run project
+
+```bash
+   npm run dev
+```
+
